@@ -1,4 +1,5 @@
 # Testing-With-Jest-Practice
+This microverse course to learn best practice of perfoming unit test with jest
 
 #### Task 1
 - Write a function *stringLength(string)* that takes any string as an argument and returns its characters count.
